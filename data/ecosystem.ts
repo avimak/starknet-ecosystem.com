@@ -1214,7 +1214,7 @@ export const allProjects: Array<Project> = [
       website: "https://braavos.app/",
       github: "https://github.com/myBraavos",
       twitter: "https://twitter.com/myBraavos",
-      medium: "https://medium.com/@braavos_starknet_wallet",
+      medium: "https://braavos.app/blog",
       discord: "https://discord.gg/9Ks7V5DN9z",
       telegram: "https://t.me/mybraavos",
     },
